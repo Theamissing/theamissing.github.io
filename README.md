@@ -1,1 +1,1 @@
-# theamissing.github.io
+If you're reading this, you're stupid
