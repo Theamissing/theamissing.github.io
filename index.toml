@@ -35,6 +35,11 @@ hash = "0767048722975216a9d8bbc72f13f1bdc425296d1c09e369db4f2129af311909"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "fb9436eba3fde295c9d8eacb81d411d4a045f5c225c2b6db3ad764fd8dc553c3"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "6eceb92838e929fe21244fc1b1f10c681507922e80b3378e751be20904b9064a"
 metafile = true

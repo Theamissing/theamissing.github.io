@@ -1,0 +1,13 @@
+name = "Chat Heads"
+filename = "chat_heads-0.14.0-neoforge-1.21.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/o5D92e7t/chat_heads-0.14.0-neoforge-1.21.6.jar"
+hash-format = "sha512"
+hash = "5e582ce0c23939740ea545cb9e08abf78da0da645f312f33ad3044dfed8228f4f01e08a79ab33e7fd7cf1ada7d34c9e520e075d411c760fcf6da36f4ead99823"
+
+[update]
+[update.modrinth]
+mod-id = "Wb5oqrBJ"
+version = "o5D92e7t"
