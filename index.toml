@@ -1,6 +1,35 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "2f796d7c0c7cdbcecb829a9dec7a0a1f3fc5d191d1d646ef91ab07eab636c644"
+
+[[files]]
+file = "config/sound_physics_remastered/allowed_sounds.properties"
+hash = "c022d31bddc7e02320eb1fdf94792cc0c836ed91313fccac968898eddaedf392"
+
+[[files]]
+file = "config/sound_physics_remastered/occlusion.properties"
+hash = "cb08fad009eefaaf888bb4324c351ac426a49fb0db7cb75c4fddbcdcf8d8f414"
+
+[[files]]
+file = "config/sound_physics_remastered/reflectivity.properties"
+hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
+
+[[files]]
+file = "config/sound_physics_remastered/soundphysics.properties"
+hash = "67cf1f96ca3854c20d84daa37684e2a0ba0d2b1a86f4bb4a36609d5d2bf5f068"
+
+[[files]]
+file = "index.html"
+hash = "2ac6572fa8772e80ab86477d25519fa0c784bc5a0aae69fb9b765ed9c70e432b"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "c3914043b416901a2b3a2f4641d2b0d5c5b5f6cc37fd28640439a70fccf47ad6"
+metafile = true
+
+[[files]]
 file = "mods/better-brightness-slider-respawn.pw.toml"
 hash = "0767048722975216a9d8bbc72f13f1bdc425296d1c09e369db4f2129af311909"
 metafile = true
