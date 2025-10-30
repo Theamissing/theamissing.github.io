@@ -50,6 +50,11 @@ hash = "9af068ca45bf831ae5434199fb379a54934212c5229eeb1d2b3c306375cb6963"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "edad218cc48e1fb4c78878ff4a7aec2810d6d647e59eefa1e86477f553f5d8c0"
+metafile = true
+
+[[files]]
 file = "mods/peak-craft.pw.toml"
 hash = "e6779f5754a25e61c5570e13c6de48797fa3c8137df75cbe2662802a30f00062"
 metafile = true
