@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "2f796d7c0c7cdbcecb829a9dec7a0a1f3fc5d191d1d646ef91ab07eab636c644"
+hash = "039a675b1aa18312bacfc418ea8d1144b70e39ca1b9f3e5d5481c163ebc8846b"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
