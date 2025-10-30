@@ -73,3 +73,7 @@ metafile = true
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "a4665286ef72040c40fc8c99e0454351cb9a06df8988ed1d6e4b9aa4e84c97fd"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "8adb34895d20d56ae023c04021cfd3ea64c376059c532968cabd6e70df1c3761"
