@@ -1,0 +1,41 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/better-brightness-slider-respawn.pw.toml"
+hash = "0767048722975216a9d8bbc72f13f1bdc425296d1c09e369db4f2129af311909"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "6eceb92838e929fe21244fc1b1f10c681507922e80b3378e751be20904b9064a"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "9af068ca45bf831ae5434199fb379a54934212c5229eeb1d2b3c306375cb6963"
+metafile = true
+
+[[files]]
+file = "mods/peak-craft.pw.toml"
+hash = "e6779f5754a25e61c5570e13c6de48797fa3c8137df75cbe2662802a30f00062"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "3bfe09a77e234cb96c71d66fdbfe416f00afda1417f349ff55033e53b86b5a93"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "53ccd48b491fa91cb58aa67c1657ce1192d181787e1a7bc2b02f645f5af05af9"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ffb44958a7e6d50678d5db21e1a3470669151a01536e304bc69990969637a67f"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "a4665286ef72040c40fc8c99e0454351cb9a06df8988ed1d6e4b9aa4e84c97fd"
+metafile = true

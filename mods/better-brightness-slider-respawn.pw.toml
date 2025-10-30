@@ -1,0 +1,13 @@
+name = "Better Brightness Slider Respawn"
+filename = "BetterBrightnessSliderRespawn-1.1-1.21.3-1.21.8-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3d383e4d761fc823c9f1daab6520be339fe9a11"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6823733
+project-id = 1127829
