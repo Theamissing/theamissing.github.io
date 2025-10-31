@@ -50,6 +50,11 @@ hash = "44446d7436ba7f50f26a0ee0fcd7ec498ea6041fad2ebd5a711b97d5a01f8c7d"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "6cc164013be59b9fbd57d0cd474b3a22175b27ae5ac402f7c7e9ecdb679a8202"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "9af068ca45bf831ae5434199fb379a54934212c5229eeb1d2b3c306375cb6963"
 metafile = true
@@ -66,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "014067efedbc1df56deb87896a0c549c75360cd70dcfa23f5cddfa0c0b778eec"
+hash = "0b34e5ed74dcf15b4e26f796390f53fd8848349b7952c30b0c24fcb507a708eb"
 metafile = true
 
 [[files]]

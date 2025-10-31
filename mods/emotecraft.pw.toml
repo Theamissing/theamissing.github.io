@@ -1,0 +1,13 @@
+name = "Emotecraft"
+filename = "emotecraft-neoforge-for-MC1.21.7-3.0.0-b.build.127.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/YHO0HsBg/emotecraft-neoforge-for-MC1.21.7-3.0.0-b.build.127.jar"
+hash-format = "sha512"
+hash = "cf013a72c749031142d6068934b2e2f0487387b6cbcd53c1d433169c916bd1361162ea6671e92e138688b614ea949245eeb8693de4748abd9326bbac83178c21"
+
+[update]
+[update.modrinth]
+mod-id = "pZ2wrerK"
+version = "YHO0HsBg"
