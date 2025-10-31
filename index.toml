@@ -45,16 +45,6 @@ hash = "6eceb92838e929fe21244fc1b1f10c681507922e80b3378e751be20904b9064a"
 metafile = true
 
 [[files]]
-file = "mods/emotecraft-forge.pw.toml"
-hash = "44446d7436ba7f50f26a0ee0fcd7ec498ea6041fad2ebd5a711b97d5a01f8c7d"
-metafile = true
-
-[[files]]
-file = "mods/emotecraft.pw.toml"
-hash = "6cc164013be59b9fbd57d0cd474b3a22175b27ae5ac402f7c7e9ecdb679a8202"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "9af068ca45bf831ae5434199fb379a54934212c5229eeb1d2b3c306375cb6963"
 metafile = true
@@ -67,11 +57,6 @@ metafile = true
 [[files]]
 file = "mods/peak-craft.pw.toml"
 hash = "e6779f5754a25e61c5570e13c6de48797fa3c8137df75cbe2662802a30f00062"
-metafile = true
-
-[[files]]
-file = "mods/player-animation-library.pw.toml"
-hash = "0b34e5ed74dcf15b4e26f796390f53fd8848349b7952c30b0c24fcb507a708eb"
 metafile = true
 
 [[files]]
